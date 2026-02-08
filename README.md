@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  ────────── ✦ ──────────
+</p>
 
-<!--
-**alisonsuarezo-ui/alisonsuarezo-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=400&height=80&lines=++Hola!+mi+nombre+es+Alisson+✨">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="350">
+</p>
+<p align="center">
+  ────────── ✦ ──────────
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Bienvenidos+a+mi+Perfil+de+GitHub" /></a>
+
+
+
+
+- 💖👩🏽‍💻 Actualmente soy estudiante y me encanta aprender cosas nuevas sobre tecnología  
+- 🌱✨ Estoy aprendiendo programación, desarrollo web e inteligencia artificial poco a poco  
+- 🤔💭 Me interesan la tecnología, los proyectos creativos, la IA y todo lo digital  
+- 💬💌 Creciendo cada día en programación y creatividad 
+- 🌐🌸 Mi espacio para crear y programar
+
+
+<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Lenguajes+en+proceso" </h2>
+
+
+
+<p align="center">
+  ────────── ✦ ──────────
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,html,java,python,sql,cpp&theme=dark&perline=3&size=120" />
+</p>
+
+<p align="center">
+  ────────── ✦ ──────────
+</p>
+
+
+
