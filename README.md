@@ -44,8 +44,6 @@
 </p>
 
 
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=alisonsuarezo-ui&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=alisonsuarezo-ui&theme=radical&include_all_commits=true&count_private=true)
+![github estadisticas](https://github-readme-streak-stats.herokuapp.com/?user=alisonsuarezo-ui&theme=radical&include_all_commits=true&count_private=true)
 
 
