@@ -43,7 +43,12 @@
   ────────── ✦ ──────────
 </p>
 
+
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F527BB&size=30&lines=Estadisticas+de+GitHub" </h2>
+
+
+
+
 ![github estadisticas](https://github-readme-streak-stats.herokuapp.com/?user=alisonsuarezo-ui&theme=radical&include_all_commits=true&count_private=true)
 
 
