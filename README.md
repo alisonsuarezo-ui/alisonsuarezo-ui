@@ -1,54 +1,48 @@
-<p align="center">
-  ────────── ✦ ──────────
-</p>
+<div align="center">
+  <h1>¡Hola, soy Tu Nombre! 👋</h1>
+  <h3>Desarrolladora de Software Full-Stack 💻 | Apasionada por crear soluciones web eficientes</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=F527BB&background=00000000&width=400&height=80&lines=++Hola!+mi+nombre+es+Alisson+✨">
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="350">
-</p>
-<p align="center">
-  ────────── ✦ ──────────
-</p>
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy enfocada en el desarrollo de aplicaciones web escalables y arquitecturas backend robustas.
+- ⚡ Interesada en herramientas como **JavaScript, React, Java, Docker y PostgreSQL**.
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías para optimizar flujos de desarrollo.
 
+---
 
-  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F527BB&size=30&lines=Bienvenidos+a+mi+Perfil+de+GitHub" /></a>
+### 🛠️ Tecnologías y Herramientas
 
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</div>
 
+---
 
+### 📊 Estadísticas de GitHub
 
-- 💖👩🏽‍💻 Actualmente soy estudiante y me encanta aprender cosas nuevas sobre tecnología  
-- 🌱✨ Estoy aprendiendo programación, desarrollo web e inteligencia artificial poco a poco  
-- 🤔💭 Me interesan la tecnología, los proyectos creativos, la IA y todo lo digital  
-- 💬💌 Creciendo cada día en programación y creatividad 
-- 🌐🌸 Mi espacio para crear y programar
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
+---
 
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F527BB&size=30&lines=Lenguajes+en+proceso" </h2>
+### 🌐 Conecta conmigo
 
-
-
-<p align="center">
-  ────────── ✦ ──────────
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,java,python,sql,cpp&theme=dark&perline=3&size=120" />
-</p>
-
-<p align="center">
-  ────────── ✦ ──────────
-</p>
-
-
-<h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F527BB&size=30&lines=Estadisticas+de+GitHub" </h2>
-
-
-
-
-![github estadisticas](https://github-readme-streak-stats.herokuapp.com/?user=alisonsuarezo-ui&theme=radical&include_all_commits=true&count_private=true)
-
-
+<div align="center">
+  <a href="https://linkedin.com/in/tu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-correo@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
