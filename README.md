@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola, bienvenido/a a mi perfil! 👋</h1>
-  <h3>Desarrolladora Full-Stack 💻 | Especialista en Soluciones Web & Automatización</h3>
+  <h3>Soy Alisson, Desarrolladora Full-Stack 💻 | Especialista en Soluciones Web & Automatización</h3>
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-usuario)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tu-portafolio.com)
